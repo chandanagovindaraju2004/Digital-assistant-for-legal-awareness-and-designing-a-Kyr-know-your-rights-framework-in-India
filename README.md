@@ -1,14 +1,14 @@
 # Welcome to your Lovable project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/647a31b3-1d42-4fb2-af08-50767ea5eb99
+This project is a digital legal companion designed to raise awareness about individual rights and provide easy access to legal information in India. Built using React and TypeScript, it features an interactive chatbot assistant, categorized Know Your Rights (KYR) content, multilingual support, and a clean, responsive UI — all aimed at making legal knowledge accessible to everyone
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-🚀 Features
+## 🚀 Features
+
 🔍 Chatbot Interface: Ask questions and get answers on various legal topics in real time.
 
 📚 Know Your Rights Sections: Information organized by category (Women, Labour, Students, etc.).
@@ -67,8 +67,10 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- supabase
   
-📌 Use Cases
+## 📌 Use Cases
+
 Legal education platforms
 
 NGO awareness tools
