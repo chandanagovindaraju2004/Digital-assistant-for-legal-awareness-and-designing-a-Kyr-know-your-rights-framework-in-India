@@ -8,11 +8,19 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+🚀 Features
+🔍 Chatbot Interface: Ask questions and get answers on various legal topics in real time.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/647a31b3-1d42-4fb2-af08-50767ea5eb99) and start prompting.
+📚 Know Your Rights Sections: Information organized by category (Women, Labour, Students, etc.).
 
-Changes made via Lovable will be committed automatically to this repo.
+🌐 Multilingual Support: Uses i18next for supporting Indian languages.
+
+📱 Responsive Design: Optimized for mobile and desktop devices.
+
+🧩 Component-Based Architecture: Built with modular and reusable React components.
+
+🔗 Smooth Navigation: Powered by React Router for seamless transitions between sections.
+
 
 **Use your preferred IDE**
 
@@ -59,15 +67,12 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+  
+📌 Use Cases
+Legal education platforms
 
-## How can I deploy this project?
+NGO awareness tools
 
-Simply open [Lovable](https://lovable.dev/projects/647a31b3-1d42-4fb2-af08-50767ea5eb99) and click on Share -> Publish.
+Civic engagement initiatives
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+School or college projects on constitutional rights
