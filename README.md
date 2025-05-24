@@ -1,4 +1,5 @@
-# Welcome to your Lovable project
+# Digital assistant for legal awareness and designing a KYR know your rights framework in India
+
 
 ## Project info
 This project is a digital legal companion designed to raise awareness about individual rights and provide easy access to legal information in India. Built using React and TypeScript, it features an interactive chatbot assistant, categorized Know Your Rights (KYR) content, multilingual support, and a clean, responsive UI — all aimed at making legal knowledge accessible to everyone
